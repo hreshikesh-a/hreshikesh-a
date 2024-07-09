@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hreshikesh-a. 
+- 👀 I’m interested in solving real problems through programming
+- 🌱 I’m currently learning a lot of things 🙊. Data analytics, big data, Machine learning, and Deep learning in the career page of my book.
+- 📫 How to reach me adal.hreshi@gmail.com
+- ⚡ Fun fact: I know this README template can be changed.
