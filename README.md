@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hreshikesh-a. 
-- 👀 I’m interested in solving real problems through programming
+- 👀 I’m interested in solving real problems through programming, primarily C#, TypeScript, SQL
 - 🌱 I’m currently learning a lot of things 🙊. Data analytics, big data, Machine learning, and Deep learning in the career page of my book.
 - 📫 How to reach me adal.hreshi@gmail.com OR www.linkedin.com/in/hreshikesh
 - ⚡ Fun fact: I know this README template can be changed.
